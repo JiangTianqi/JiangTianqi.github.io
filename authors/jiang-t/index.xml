@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiang T* | Tianqi Jiang&#39;s curriculum vitae</title>
+    <link>/authors/jiang-t/</link>
+      <atom:link href="/authors/jiang-t/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiang T*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jiang T*</title>
+      <link>/authors/jiang-t/</link>
+    </image>
+    
+    <item>
+      <title>Multi-party Game Analysis of Coal Industry and Industry Regulation Policy Optimization</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;p&gt;Jiang T*. Multi-party Game Analysis of Coal Industry and Industry Regulation Policy Optimization. Iop Conference, 2018, 108(3):032003.&lt;/p&gt;
+&lt;p&gt;This article is an idea came from an undergraduate course (system engineering).&lt;/p&gt;
+&lt;p&gt;Coal mine accidents; Game analysis; Safety production; Supervision policy&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
